@@ -7,7 +7,7 @@ There will be, here, no description of professional works.
 ---
 # A - Python
 
-[Folder](https://github.com/JujuDel/PersonnalProjects/Python/)
+[Folder](https://github.com/JujuDel/PersonnalProjects/tree/master/Python/)
 
 ---
 ## A.1 - Object Detection and tracking
@@ -35,25 +35,25 @@ To add a new face in the dataset, add the corresponding *.jpg* file in the *data
 ---
 # B - C++
 
-[Folder](https://github.com/JujuDel/PersonnalProjects/Cpp/)
+[Folder](https://github.com/JujuDel/PersonnalProjects/tree/master/Cpp/)
 
 ---
 ## B.1 - Blemish Removal
 
 ![Cpp/Data/BlemishRemoval.gif](Cpp/Data/BlemishRemoval.gif)
 
-Removing Blemish by clicking on it, using computer vision techniques:
+Removing Blemish by clicking on it, using computer vision techniques.
 
 ## B.2 - Chroma Keying
 
 ![Cpp/Data/ChromaKeying.gif](Cpp/Data/ChromaKeying.gif)
 
-Removing green background by selecting it, using computer vision techniques:
+Removing green background by selecting it, using computer vision techniques.
 
 ---
 # C - Processing
 
-[Folder](https://github.com/JujuDel/PersonnalProjects/Processing/)
+[Folder](https://github.com/JujuDel/PersonnalProjects/tree/master/Processing/)
 
 ---
 ## C.1 - Genetic algotithm: Basic path finding
@@ -85,7 +85,7 @@ Hyper-parameter tuning done by hand with the developed interface.
 ---
 # D - Jupyter (Python notebook)
 
-More details can be found in the *Notebook*'s [folder](https://github.com/JujuDel/PersonnalProjects/Notebooks/) (and its README).
+More details can be found in the *Notebook*'s [folder](https://github.com/JujuDel/PersonnalProjects/tree/master/Notebooks/) (and its README).
 
 You'll find here:
 
