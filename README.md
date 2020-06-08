@@ -13,6 +13,8 @@ A repository containing only links to my other repo, associated with gif, images
 
 ### Ranking 08/06/2020:
 
+<img height="256" alt="codinGame" src="data/images/codinGame.png">
+
 Global: Top 0.4%
 
 Contests: Top 3%
@@ -41,7 +43,7 @@ This project aims to find a doppelganger or look-alike to a given person within 
 Input | Doppelganger
 :---: | :---:
 sofia-solares | Selena
-![in](data/images/sofia-solares.jpg) | ![out](data/images/n00002238_00000655.JPEG)
+<img height="256" alt="in" src="data/images/sofia-solares.jpg"> | <img height="256" alt="out" src="data/images/n00002238_00000655.JPEG">
 
 ---
 # D. Late 2019 to Early 2020 - [FancyOpenCV](https://github.com/JujuDel/FancyOpenCV)
