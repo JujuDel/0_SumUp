@@ -1,6 +1,6 @@
-# Linker / Summed up repo
+# Summed up repo
 
-A repository containing only links to my other repo, associated with gif, images and small description.
+A repository containing only links to my other repo, associated with gif, images and small descriptions.
 
 ---
 # A - Coding Challenge & Puzzle
