@@ -1,9 +1,10 @@
+
 # Summed up repo
 
 A repository containing only links to my other repo, associated with gif, images and small descriptions.
 
 ---
-# A - Coding Challenge & Puzzle
+# A - Coding Challenge & Puzzle & Courses
 
 ##  [CodinGame](https://www.codingame.com/home)
  
@@ -15,17 +16,28 @@ A repository containing only links to my other repo, associated with gif, images
 
 <img height="256" alt="codinGame" src="data/images/codinGame.png">
 
-Global: Top 0.4%
+Global | Top 0.4%
+:---: | :---:
+Contests | Top 3%
+Bot programming | Top 4%
+Clash of Code | Top 0.2%
+Optimization | None
+Code golf | Top 3%
 
-Contests: Top 3%
+## Certifications
 
-Bot programming: Top 4%
+### OpenCV
 
-Clash of Code: Top 0.2%
+22/05/2020 - [COMPUTER VISION II: APPLICATIONS (PYTHON)](https://courses.opencv.org/certificates/0220f408aa7b4f108fa6caeadd67b68f) - Earned grade 97%
+17/01/2020 - [COMPUTER VISION I (PYTHON)](https://courses.opencv.org/certificates/5a617344365141218a30908e3d70c107) - Earned grade 99%
+25/12/2019 - [COMPUTER VISION I (C++)](https://courses.opencv.org/certificates/8bfc73916051470db419b58473e7e326) - Earned grade 97%
 
-Optimization: None
+### Coursera
 
-Code golf: Top 3%
+06/13/2019 - [Covolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/DBY2EGX7DJV7)
+06/02/2019 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/NQQDK87X6BCS)
+05/30/2019 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/HB476JH9JZ3U)
+05/23/2019 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/97PU3C7NJSLQ)
 
 ---
 # B. May 2020 - [Virtual MakeUp](https://github.com/JujuDel/VirtualMakeUp)
