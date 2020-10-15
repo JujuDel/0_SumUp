@@ -34,19 +34,25 @@ A repository containing only links to my other repo, associated with gif, images
   <tr>
     <td>Clash of Code</td>
     <td>Top 0.1%</td>
-    <td>68 / 191'106</td>
+    <td>26 / 192'389</td>
   </tr>
   <tr>
     <td>Optimization</td>
     <td>Top 3%</td>
-    <td>475 / 19'854</td>
+    <td>490 / 19'980</td>
   </tr>
   <tr>
     <td>Code golf</td>
     <td>Top 0.8%</td>
-    <td>212 / 28'148</td>
+    <td>214 / 28'362</td>
   </tr>
 </table>
+
+
+Codingame's certification | Coding skills
+:---: | :---:
+![codingame_certif](data/images/codinGame_Certif.png) | ![codingame_skills](data/images/codinGame_Skills.png)
+
 
 ## Certifications
 
@@ -60,13 +66,13 @@ A repository containing only links to my other repo, associated with gif, images
 
 ### Coursera
 
-06/13/2019 - [Covolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/DBY2EGX7DJV7)
+13/06/2019 - [Covolutional Neural Networks](https://www.coursera.org/account/accomplishments/certificate/DBY2EGX7DJV7)
 
-06/02/2019 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/NQQDK87X6BCS)
+02/06/2019 - [Structuring Machine Learning Projects](https://www.coursera.org/account/accomplishments/certificate/NQQDK87X6BCS)
 
-05/30/2019 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/HB476JH9JZ3U)
+30/05/2019 - [Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization](https://www.coursera.org/account/accomplishments/certificate/HB476JH9JZ3U)
 
-05/23/2019 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/97PU3C7NJSLQ)
+23/05/2019 - [Neural Networks and Deep Learning](https://www.coursera.org/account/accomplishments/certificate/97PU3C7NJSLQ)
 
 ---
 # B. Late 2020 - [Mars Lander - Genetic Algorithm](https://github.com/JujuDel/MarLander_Genetic)
