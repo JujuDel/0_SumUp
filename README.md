@@ -17,6 +17,11 @@ A repository containing only links to my other repo, associated with gif, images
 
 <table>
   <tr>
+    <td>Global ranking and progression</td>
+    <td colspan="3">Detailed ranking</td>
+    <td>Practiced coding skills</td>
+  </tr>
+  <tr>
     <td rowspan="6"><img height="256" alt="codinGame" src="data/images/codinGame.png"></td>
     <td>Global</td>
     <td colspan="2">Top 0.3%</td>
