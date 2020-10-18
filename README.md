@@ -13,19 +13,17 @@ A repository containing only links to my other repo, associated with gif, images
 
 [My CodinGame profile](https://www.codingame.com/profile/b944cb66159c494961db183c595578915353933)
 
-### Ranking 15/10/2020:
+### Ranking 18/10/2020:
 
 <table>
   <tr>
     <td>Global ranking and progression</td>
     <td colspan="3">Detailed ranking</td>
-    <td>Practiced coding skills</td>
   </tr>
   <tr>
     <td rowspan="6"><img height="256" alt="codinGame" src="data/images/codinGame.png"></td>
     <td>Global</td>
     <td colspan="2">Top 0.3%</td>
-    <td rowspan="6"><img height="256" alt="codinGame_Skills" src="data/images/codinGame_Skills.png"></td>
   </tr>
   <tr>
     <td>Contests</td>
@@ -58,6 +56,10 @@ A repository containing only links to my other repo, associated with gif, images
 Codingame's certification |
 :---: |
 ![codingame_certif](data/images/codinGame_Certif.png) |
+
+Practiced skills |
+:---: |
+![codingame_skills](data/images/codinGame_Skills.png) |
 
 
 ## Certifications
