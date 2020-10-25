@@ -123,6 +123,9 @@ This repo contains small projects/app that uses OpenCV.
 ### Chroma Keying
 ![gif](data/gif/chromaKeying.gif)
 
+### ASCII Art
+![gif](data/gif/asciiArt.gif)
+
 ### Smile detection and bug eye
 ![gif](data/gif/funFaces.gif)
 
