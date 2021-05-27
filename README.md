@@ -13,7 +13,7 @@ A repository containing only links to my other repo, associated with gif, images
 
 [My CodinGame profile](https://www.codingame.com/profile/b944cb66159c494961db183c595578915353933)
 
-### Ranking 18/10/2020:
+### Ranking 27/05/2021:
 
 <table>
   <tr>
@@ -23,32 +23,33 @@ A repository containing only links to my other repo, associated with gif, images
   <tr>
     <td rowspan="6"><img height="256" alt="codinGame" src="data/images/codinGame.png"></td>
     <td>Global</td>
-    <td colspan="2">Top 0.3%</td>
+    <td>Top 0.1%</td>
+    <td>329 / 377'986</td>
   </tr>
   <tr>
     <td>Contests</td>
-    <td>Top 2%</td>
-    <td>457 / 35'968</td>
+    <td>Top 0.6%</td>
+    <td>230 / 42'690</td>
   </tr>
   <tr>
     <td>Bot programming</td>
-    <td>Top 2%</td>
-    <td>2'419 / 127'944</td>
+    <td>Top 0.5%</td>
+    <td>694 / 151'763</td>
   </tr>
   <tr>
     <td>Clash of Code</td>
     <td>Top 0.1%</td>
-    <td>26 / 192'389</td>
+    <td>56 / 254'133</td>
   </tr>
   <tr>
     <td>Optimization</td>
-    <td>Top 3%</td>
-    <td>490 / 19'980</td>
+    <td>Top 2%</td>
+    <td>380 / 23'678</td>
   </tr>
   <tr>
     <td>Code golf</td>
-    <td>Top 0.8%</td>
-    <td>214 / 28'362</td>
+    <td>Top 0.5%</td>
+    <td>153 / 32'895</td>
   </tr>
 </table>
 
@@ -56,10 +57,6 @@ A repository containing only links to my other repo, associated with gif, images
 Codingame's certification |
 :---: |
 ![codingame_certif](data/images/codinGame_Certif.png) |
-
-Practiced skills |
-:---: |
-![codingame_skills](data/images/codinGame_Skills.png) |
 
 
 ## Certifications
